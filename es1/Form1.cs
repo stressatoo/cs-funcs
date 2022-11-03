@@ -33,7 +33,7 @@ namespace esercizio_funcs
         {
             nProd = Convert.ToByte(txtnProdotti.Text);
 
-            for (int i = 1; i <= nProd; i++)
+            for (int i = 1; i <= nProd; ++i)
             {
                 tipo = Interaction.InputBox("Inserire tipo prodotto");
                 quant = Convert.ToByte(Interaction.InputBox("Inserire quantità prodotto (in quintali)"));
