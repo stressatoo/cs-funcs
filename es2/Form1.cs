@@ -55,7 +55,7 @@ namespace areaTrapezio_param
         private void btnCalcola_Click(object sender, EventArgs e)
         {
             input();
-            calcoloLato (baseMinore, baseMaggiore, altezza);
+            calcoloLato(baseMinore, baseMaggiore, altezza);
             calcoloPerimetro(baseMinore, baseMaggiore, lato);
             calcoloArea(baseMinore, baseMaggiore, altezza);
             output();
