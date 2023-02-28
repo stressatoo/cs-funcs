@@ -1,0 +1,10 @@
+C:\Users\4BP\source\repos\esercitazioneVettori\esercitazioneVettori\bin\Debug\esercitazioneVettori.exe.config
+C:\Users\4BP\source\repos\esercitazioneVettori\esercitazioneVettori\bin\Debug\esercitazioneVettori.exe
+C:\Users\4BP\source\repos\esercitazioneVettori\esercitazioneVettori\bin\Debug\esercitazioneVettori.pdb
+C:\Users\4BP\source\repos\esercitazioneVettori\esercitazioneVettori\obj\Debug\esercitazioneVettori.csprojAssemblyReference.cache
+C:\Users\4BP\source\repos\esercitazioneVettori\esercitazioneVettori\obj\Debug\esercitazioneVettori.Form1.resources
+C:\Users\4BP\source\repos\esercitazioneVettori\esercitazioneVettori\obj\Debug\esercitazioneVettori.Properties.Resources.resources
+C:\Users\4BP\source\repos\esercitazioneVettori\esercitazioneVettori\obj\Debug\esercitazioneVettori.csproj.GenerateResource.cache
+C:\Users\4BP\source\repos\esercitazioneVettori\esercitazioneVettori\obj\Debug\esercitazioneVettori.csproj.CoreCompileInputs.cache
+C:\Users\4BP\source\repos\esercitazioneVettori\esercitazioneVettori\obj\Debug\esercitazioneVettori.exe
+C:\Users\4BP\source\repos\esercitazioneVettori\esercitazioneVettori\obj\Debug\esercitazioneVettori.pdb
